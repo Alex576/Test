@@ -1,3 +1,3 @@
 # Test
-Курсовая ItStep
+Курсовая ItStep\n
 WF, Entity Framework, MVVM, SQL, LINQ
